@@ -1,3 +1,3 @@
 # mrinal_demo
 This is my first repository.
-hellogit 
+user = mrinal satyarthi
